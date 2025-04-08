@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Head -->
+    <circle cx="75" cy="60" r="30" fill="#6c5ce7"/>
+    
+    <!-- Hair -->
+    <path d="M45 60 C45 45, 60 30, 75 30 C90 30, 105 45, 105 60" fill="#2d3436"/>
+    
+    <!-- Face -->
+    <circle cx="65" cy="55" r="3" fill="white"/> <!-- Left eye -->
+    <circle cx="85" cy="55" r="3" fill="white"/> <!-- Right eye -->
+    <path d="M65 70 Q75 75 85 70" stroke="white" stroke-width="2" fill="none"/> <!-- Smile -->
+    
+    <!-- Body -->
+    <path d="M60 90 L90 90 L85 120 L65 120 Z" fill="#a8a4e6"/>
+    
+    <!-- Arms -->
+    <path d="M60 90 L45 110" stroke="#a8a4e6" stroke-width="8" stroke-linecap="round"/>
+    <path d="M90 90 L105 110" stroke="#a8a4e6" stroke-width="8" stroke-linecap="round"/>
+    
+    <!-- Legs -->
+    <path d="M65 120 L55 140" stroke="#a8a4e6" stroke-width="8" stroke-linecap="round"/>
+    <path d="M85 120 L95 140" stroke="#a8a4e6" stroke-width="8" stroke-linecap="round"/>
+</svg> 
